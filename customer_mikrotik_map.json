@@ -1,0 +1,134 @@
+{
+    "24": {
+        "customer_name": "Sonnenschein Family Store",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "8": {
+        "customer_name": "0969 Ocean View Road",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "3": {
+        "customer_name": "Cool Cars",
+        "mikrotik_username": "coolcars",
+        "mikrotik_ip": "192.168.88.28",
+        "enabled": true
+    },
+    "17": {
+        "customer_name": "Mark Cho",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "25": {
+        "customer_name": "Sushi by Katsuyuki",
+        "mikrotik_username": "sushi_katsuyuki",
+        "mikrotik_ip": "192.168.88.26",
+        "enabled": true
+    },
+    "21": {
+        "customer_name": "Rondonuwu Fruit and Vegi",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "10": {
+        "customer_name": "Geeta Kalapatapu",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "1": {
+        "customer_name": "Amy's Bird Sanctuary",
+        "mikrotik_username": "amys_bird_sanctuary",
+        "mikrotik_ip": "192.168.88.27",
+        "enabled": true
+    },
+    "26": {
+        "customer_name": "Travis Waldron",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "5": {
+        "customer_name": "Dukes Basketball Camp",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "12": {
+        "customer_name": "Jeff's Jalopies",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "9": {
+        "customer_name": "55 Twin Lane",
+        "mikrotik_username": "55twinlane",
+        "mikrotik_ip": "192.168.88.25",
+        "enabled": true
+    },
+    "2": {
+        "customer_name": "Bill's Windsurf Shop",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "20": {
+        "customer_name": "Red Rock Diner",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "16": {
+        "customer_name": "Kookies by Kathy",
+        "mikrotik_username": "kookies_test",
+        "mikrotik_ip": "192.168.88.29",
+        "enabled": true
+    },
+    "18": {
+        "customer_name": "Paulsen Medical Supplies",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "23": {
+        "customer_name": "Barnett Design",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "29": {
+        "customer_name": "Weiskopf Consulting",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+    "13": {
+        "customer_name": "John Melton",
+        "mikrotik_username": "",
+        "mikrotik_ip": "",
+        "enabled": false
+    },
+     "100000001": {
+        "customer_name": "Mr. Roosevelt hervie",
+        "mikrotik_username": "roosevelt_test",
+        "mikrotik_ip": "192.168.88.30",
+        "enabled": true
+    },
+    "100000011": {
+        "customer_name": "Test Cusromer Grace",
+        "mikrotik_username": "grace_test",
+        "mikrotik_ip": "192.168.88.31",
+        "enabled": true
+    },
+    "100000021": {
+        "customer_name": "Test Suspened Customer",
+        "mikrotik_username": "suspend_test",
+        "mikrotik_ip": "192.168.88.32",
+        "enabled": true
+    }
+}
