@@ -1,3 +1,20 @@
+# Environment variables
 .env
+.env.*
+
+# Python environment
 venv/
 __pycache__/
+*.pyc
+
+# Certificates and private keys
+*.crt
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Customer and operational data
+customer_mikrotik_map.json
+mikrotik_state.json
+billing_action_log*.csv
